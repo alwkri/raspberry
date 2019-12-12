@@ -1,5 +1,6 @@
 #physcal 11
 #BCM 17
+# led resistor 300
 
 from time import sleep
 import RPi.GPIO as GPIO
